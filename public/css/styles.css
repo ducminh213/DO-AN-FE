@@ -269,6 +269,7 @@ div.main-contant {
     font-weight: bold;
 }
 .boc-item2-bn{
+    display: inline-block;
     padding: 15px 0;
 }
 .item-bn-2:hover {
