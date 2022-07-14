@@ -242,10 +242,6 @@ div.main-contant {
     padding-top: 200px;
 }
 
-.banner2-menu {
-    display: inline-block;
-}
-
 .item-bn-1 {
     display: inline-block;
     color: #fff;
@@ -262,7 +258,6 @@ div.main-contant {
 }
 
 .item-bn-2 {
-    display: inline-block;
     color: #fff;
     text-decoration: none;
     margin: 0 25px;
