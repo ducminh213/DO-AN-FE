@@ -268,7 +268,9 @@ div.main-contant {
     margin: 0 25px;
     font-weight: bold;
 }
-
+.boc-item2-bn{
+    padding: 15px 0;
+}
 .item-bn-2:hover {
     color: #fff;
 }
